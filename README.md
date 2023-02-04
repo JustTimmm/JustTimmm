@@ -5,7 +5,7 @@
 
 - 🌵 I work for my server : **Casatdia**
 
-- 🌿 And my other server **Erania**
+- 🌿 And my other server : **Erania**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
