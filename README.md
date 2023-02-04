@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarzax</h1>
 <h3 align="center">A passionate web and game developer</h3>
 
-<img align="right" alt="coding" width="400" src"https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 - 🌵 I work for my server : **Casatdia**
 
