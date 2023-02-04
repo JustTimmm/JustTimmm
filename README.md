@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="350" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
-- 🌵 I work for my server : **Casatdia**
+- 🌵 I work for my server : **Castadia**
 
 - 🌿 And my other server : **Erania**
 
