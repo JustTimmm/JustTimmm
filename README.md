@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarzaxdev&label=Profile%20views&color=f95d5d&style=flat" alt="tarzaxdev" /> </p>
-
 - 🌵 I work for my server : **Casatdia**
 
 - 🌿 And my other server **Erania**
@@ -20,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarzaxdev&show_icons=true&locale=en" alt="tarzaxdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarzaxdev&" alt="tarzaxdev" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarzaxdev&label=Profile%20views&color=f95d5d&style=flat" alt="tarzaxdev" /> </p>
