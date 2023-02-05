@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarzax</h1>
-<h3 align="center">A passionate web and game developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <img align="right" alt="coding" width="350" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
