@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="350" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
-- 🌵 I work for my server : **Castadia**
+- 🌵 I work for my minecraft server : **Castadia**
 
-- 🌿 And my other server : **Erania**
+- 🌿 And my other minecraft server : **Erania**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
