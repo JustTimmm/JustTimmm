@@ -18,5 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarzaxdev&show_icons=true&locale=en" alt="tarzaxdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarzaxdev&" alt="tarzaxdev" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarzaxdev&label=Profile%20views&color=f95d5d&style=flat" alt="tarzaxdev" /> </p>
