@@ -4,11 +4,14 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img 
 
-<p align = "center">
+<p align="center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=TarzaxDev&show_icons=true&theme=radical&line_height=27">
 </p>
 
-<p align = "center">
+<p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TarzaxDev&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TarzaxDev&&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TarzaxDev&&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j">
+</p>  
