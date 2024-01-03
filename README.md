@@ -3,8 +3,7 @@
 
 <h3 align="center">Languages:</h3>
 <p align="center">
-  <img alt="Sevelte" src="https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
-  <!--<img alt="PMMP" src="https://img.shields.io/badge/Pocketmine Mp-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>-->
+  <img alt="PMMP" src="https://img.shields.io/badge/Pocketmine Mp-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>  
 
