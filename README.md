@@ -2,7 +2,10 @@
 <h3 align="center">I'm a passionate developer</h3>
 
 <p align="center">
-  <a href="https://svelte.dev" target="_blank">
+  <a href="https://svelte.dev">
     <img src="https://skillicons.dev/icons?i=svelte"/>
+  </a>
+  <a href="https://git-scm.com"">
+    <img src="https://skillicons.dev/icons?i=git"/>
   </a>
 </p>
