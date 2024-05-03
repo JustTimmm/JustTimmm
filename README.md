@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timéo François alias JustTim</h1>
 <h3 align="center">I'm a passionate developer</h3>
 
-<p align="center">
-  <a href="https://svelte.dev">
-    <img src="https://skillicons.dev/icons?i=svelte"/>
-  </a>
-  <a href="https://git-scm.com"">
-    <img src="https://skillicons.dev/icons?i=git"/>
-  </a>
-</p>
+<h1>Web :</h1>
+<img src="https://skillicons.dev/icons?i=svelte,tailwind"/>
+<h1>Tools :</h1>
+<img src="https://skillicons.dev/icons?i=git,idea"/>
