@@ -13,4 +13,6 @@ You can contact me on:
 - **Email**: francois09timeo@gmail.com
 - **Website**: https://
 
+<hr>
+
 [![Active](https://github-readme-stats.vercel.app/api?username=JustTimmm&show_icons=true&theme=dark&count_private=true&hide=prs,issues)](https://www.github.com/JustTimmm)
