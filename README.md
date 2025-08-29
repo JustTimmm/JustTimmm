@@ -2,7 +2,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,go,php&perline=5"/>
 
 ## 🛠️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=svelte,tailwind&perline=5"/>
+<img src="https://skillicons.dev/icons?i=react,electron,tailwind&perline=5"/>
 
 ## 🧰 Development Tools
 <img src="https://skillicons.dev/icons?i=figma,idea,github,git&perline=5"/>
